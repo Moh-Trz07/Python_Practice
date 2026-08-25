@@ -1,5 +1,5 @@
-# CodeAlpha_Task1(HG)
--  FIRST TASK FROM Python Programming TASKS ON CodeAlpha by Trouzine Mohammed.
+# Hangmane Game
+
 # WHAT I USE:
  - List of Words.
  - while loop for main game.
