@@ -1,5 +1,4 @@
-# CodeAlpha_Task4
-- THIRD TASK FROM Python Programming TASKS ON CodeAlpha by Trouzine Mohammed.
+# Basic ChatBot
 # WHAT I USE:
 - A list (Bot) containing 9 fixed responses.
 - Checks if certain keywords exist in user input.
