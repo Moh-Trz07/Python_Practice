@@ -1,6 +1,6 @@
 # 🐍 Python Practice Projects
 
-A collection of beginner-to-intermediate Python projects.
+A collection of beginner-to-intermediate Python projects I built while learning the language.
 
 ---
 
@@ -26,10 +26,21 @@ Automates moving JPG files from one folder to another.
 
 ---
 
+### 3. Hangman Game 🎮
+Classic Hangman word game.
+- Random word selection from a predefined list.
+- Player guesses letters one at a time.
+- Tracks incorrect guesses and limits attempts.
+- Displays the current state of the word with underscores.
+- Win/lose conditions with game-over messages.
+
+---
+
 ## 🛠️ Technologies Used
 - Python 3
 - `os` module
 - `shutil` module
+- `random` module
 
 ---
 
